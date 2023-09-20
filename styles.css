@@ -32,8 +32,10 @@ img{
 p{
 	color:#777777;
 }
-hr{
+.hr{
 	background-color: white;
 	height:20px;
 	padding:0;
+	border: 1px solid black;
+	margin: 20px 0px;
 }
