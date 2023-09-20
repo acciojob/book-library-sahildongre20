@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #f8f8f8;
+	font-family: arial;
+}
+.book-library{
+	background-color: #ffffff;
+	width: 90%;
+	margin:auto;
+	box-shadow: 10px 10px 20px grey;
+	padding:20px;
+}
+h1{
+	text-align:center;
+}
+img{
+	margin:auto;
+	display:block;
+}
+.book{
+	line-height: 10px;
+}
+.Price-block{
+	width:100%;
+	padding:10px;
+	border:none;
+	border-radius: 5px;
+	background-color:#2ecc71;
+	color:white;
+	font-size: 20px;
+}
+p{
+	color:#777777;
+}
+hr{
+	background-color: white;
+	height:20px;
+	padding:0;
+}
